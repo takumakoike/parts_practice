@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+  <style>
+#toggle{
+  display: none;
+}
+.label{
+  width: 70px;
+  height: 70px;
+  display:block;
+  text-align: center;
+  font-size: 2em;
+  transform-origin: center;
+  transform: rotate(45deg);
+  transition: all 0.4s ease;
+}
+#toggle:checked+.label{
+  color: red;
+  transform: rotate(90deg);
+  transition: all 0.4s ease;
+}
+#toggle:checked+.label+.contents{
+  display: block;
+}
+.contents{
+  display: none;
+}
+  </style>
+</head>
+<input type="checkbox" id="toggle">
+  <label class="label" for="toggle">×</label>
+  <div class="contents">
+    test
+  </div>
+<body>
+  
+</body>
+</html>
