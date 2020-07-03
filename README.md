@@ -20,4 +20,9 @@ CSS3 - 3D Layered Hover Effect on Social Media Buttons | CodingNepal
 ||LINK||
 https://www.youtube.com/watch?v=gYErZW-N-Y0
 
+2020_07_03
+||TITLE||
+Active Tab Hover Animation with Icons | HTML & CSS
+||LINK||
+https://youtu.be/8mNZid-KXkY
 
