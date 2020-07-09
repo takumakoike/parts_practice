@@ -26,3 +26,8 @@ Active Tab Hover Animation with Icons | HTML & CSS
 ||LINK||
 https://youtu.be/8mNZid-KXkY
 
+２０２０_０７_０９
+||TITLE||
+Button Ripple Effect in HTML CSS & JavaScript | CodingNepal
+||LINK||
+https://youtu.be/SR11Thx3lFk
